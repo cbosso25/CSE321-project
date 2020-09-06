@@ -1,5 +1,4 @@
-# CSE321-project
-NOAA Weather Satellite Receiver
+# NOAA Weather Satellite Receiver
 
 radio.py is a simple FM demodulator that uses GNU Radio and an RTL-SDR to listen to FM broadcasts
 
